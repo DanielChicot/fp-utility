@@ -1,0 +1,17 @@
+{
+  "name": "fp-utility",
+  "version": "1.0.0",
+  "description": "JavaScript functional programming utility code.",
+  "main": "index.js",
+  "repository": "git@github.com:DanielChicot/fp-utility.git",
+  "author": "Daniel Chicot <dan.chicot@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "fluture": "^10.3.1",
+    "fluture-sanctuary-types": "^3.1.0",
+    "ramda": "^0.26.1",
+    "ramda-adjunct": "^2.16.1",
+    "sanctuary": "^0.15.1"
+  }
+}
