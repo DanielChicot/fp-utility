@@ -1,6 +1,6 @@
 {
   "name": "fp-utility",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JavaScript functional programming utility code.",
   "main": "index.js",
   "repository": "git@github.com:DanielChicot/fp-utility.git",
