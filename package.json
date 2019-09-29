@@ -8,10 +8,10 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "fluture": "^11.0.1",
-    "fluture-sanctuary-types": "^3.1.0",
+    "fluture": "^11.0.3",
+    "fluture-sanctuary-types": "^4.1.1",
     "ramda": "^0.26.1",
-    "ramda-adjunct": "^2.16.1",
-    "sanctuary": "^1.0.0"
+    "ramda-adjunct": "^2.21.0",
+    "sanctuary": "^2.0.0"
   }
 }
